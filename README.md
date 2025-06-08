@@ -1,4 +1,5 @@
 # Recorder 螢幕錄影工具
+![圖片說明](example.png)
 
 ## 功能
 - 全螢幕錄製
